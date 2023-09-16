@@ -1,0 +1,14 @@
+D:\MyProjects\VB\module!\module!\bin\Release\net6.0\module!.exe
+D:\MyProjects\VB\module!\module!\bin\Release\net6.0\module!.deps.json
+D:\MyProjects\VB\module!\module!\bin\Release\net6.0\module!.runtimeconfig.json
+D:\MyProjects\VB\module!\module!\bin\Release\net6.0\module!.dll
+D:\MyProjects\VB\module!\module!\bin\Release\net6.0\module!.pdb
+D:\MyProjects\VB\module!\module!\obj\Release\net6.0\module!.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\VB\module!\module!\obj\Release\net6.0\module!.AssemblyInfoInputs.cache
+D:\MyProjects\VB\module!\module!\obj\Release\net6.0\module!.AssemblyInfo.vb
+D:\MyProjects\VB\module!\module!\obj\Release\net6.0\module!.vbproj.CoreCompileInputs.cache
+D:\MyProjects\VB\module!\module!\obj\Release\net6.0\module!.dll
+D:\MyProjects\VB\module!\module!\obj\Release\net6.0\refint\module!.dll
+D:\MyProjects\VB\module!\module!\obj\Release\net6.0\module!.pdb
+D:\MyProjects\VB\module!\module!\obj\Release\net6.0\module!.genruntimeconfig.cache
+D:\MyProjects\VB\module!\module!\obj\Release\net6.0\ref\module!.dll
