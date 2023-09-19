@@ -1,0 +1,16 @@
+D:\MyProjects\VB\area\area\bin\Debug\net6.0-windows\area.exe
+D:\MyProjects\VB\area\area\bin\Debug\net6.0-windows\area.deps.json
+D:\MyProjects\VB\area\area\bin\Debug\net6.0-windows\area.runtimeconfig.json
+D:\MyProjects\VB\area\area\bin\Debug\net6.0-windows\area.dll
+D:\MyProjects\VB\area\area\bin\Debug\net6.0-windows\area.pdb
+D:\MyProjects\VB\area\area\obj\Debug\net6.0-windows\area.Form1.resources
+D:\MyProjects\VB\area\area\obj\Debug\net6.0-windows\area.vbproj.GenerateResource.cache
+D:\MyProjects\VB\area\area\obj\Debug\net6.0-windows\area.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\VB\area\area\obj\Debug\net6.0-windows\area.AssemblyInfoInputs.cache
+D:\MyProjects\VB\area\area\obj\Debug\net6.0-windows\area.AssemblyInfo.vb
+D:\MyProjects\VB\area\area\obj\Debug\net6.0-windows\area.vbproj.CoreCompileInputs.cache
+D:\MyProjects\VB\area\area\obj\Debug\net6.0-windows\area.dll
+D:\MyProjects\VB\area\area\obj\Debug\net6.0-windows\refint\area.dll
+D:\MyProjects\VB\area\area\obj\Debug\net6.0-windows\area.pdb
+D:\MyProjects\VB\area\area\obj\Debug\net6.0-windows\area.genruntimeconfig.cache
+D:\MyProjects\VB\area\area\obj\Debug\net6.0-windows\ref\area.dll

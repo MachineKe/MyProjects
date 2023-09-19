@@ -1,0 +1,14 @@
+D:\MyProjects\VB\ForIterations\ForIterations\bin\Debug\net6.0\ForIterations.exe
+D:\MyProjects\VB\ForIterations\ForIterations\bin\Debug\net6.0\ForIterations.deps.json
+D:\MyProjects\VB\ForIterations\ForIterations\bin\Debug\net6.0\ForIterations.runtimeconfig.json
+D:\MyProjects\VB\ForIterations\ForIterations\bin\Debug\net6.0\ForIterations.dll
+D:\MyProjects\VB\ForIterations\ForIterations\bin\Debug\net6.0\ForIterations.pdb
+D:\MyProjects\VB\ForIterations\ForIterations\obj\Debug\net6.0\ForIterations.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\VB\ForIterations\ForIterations\obj\Debug\net6.0\ForIterations.AssemblyInfoInputs.cache
+D:\MyProjects\VB\ForIterations\ForIterations\obj\Debug\net6.0\ForIterations.AssemblyInfo.vb
+D:\MyProjects\VB\ForIterations\ForIterations\obj\Debug\net6.0\ForIterations.vbproj.CoreCompileInputs.cache
+D:\MyProjects\VB\ForIterations\ForIterations\obj\Debug\net6.0\ForIterations.dll
+D:\MyProjects\VB\ForIterations\ForIterations\obj\Debug\net6.0\refint\ForIterations.dll
+D:\MyProjects\VB\ForIterations\ForIterations\obj\Debug\net6.0\ForIterations.pdb
+D:\MyProjects\VB\ForIterations\ForIterations\obj\Debug\net6.0\ForIterations.genruntimeconfig.cache
+D:\MyProjects\VB\ForIterations\ForIterations\obj\Debug\net6.0\ref\ForIterations.dll

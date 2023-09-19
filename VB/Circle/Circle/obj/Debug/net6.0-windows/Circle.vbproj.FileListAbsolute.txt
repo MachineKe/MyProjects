@@ -1,0 +1,16 @@
+D:\MyProjects\VB\Circle\Circle\bin\Debug\net6.0-windows\Circle.exe
+D:\MyProjects\VB\Circle\Circle\bin\Debug\net6.0-windows\Circle.deps.json
+D:\MyProjects\VB\Circle\Circle\bin\Debug\net6.0-windows\Circle.runtimeconfig.json
+D:\MyProjects\VB\Circle\Circle\bin\Debug\net6.0-windows\Circle.dll
+D:\MyProjects\VB\Circle\Circle\bin\Debug\net6.0-windows\Circle.pdb
+D:\MyProjects\VB\Circle\Circle\obj\Debug\net6.0-windows\Circle.Form1.resources
+D:\MyProjects\VB\Circle\Circle\obj\Debug\net6.0-windows\Circle.vbproj.GenerateResource.cache
+D:\MyProjects\VB\Circle\Circle\obj\Debug\net6.0-windows\Circle.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\VB\Circle\Circle\obj\Debug\net6.0-windows\Circle.AssemblyInfoInputs.cache
+D:\MyProjects\VB\Circle\Circle\obj\Debug\net6.0-windows\Circle.AssemblyInfo.vb
+D:\MyProjects\VB\Circle\Circle\obj\Debug\net6.0-windows\Circle.vbproj.CoreCompileInputs.cache
+D:\MyProjects\VB\Circle\Circle\obj\Debug\net6.0-windows\Circle.dll
+D:\MyProjects\VB\Circle\Circle\obj\Debug\net6.0-windows\refint\Circle.dll
+D:\MyProjects\VB\Circle\Circle\obj\Debug\net6.0-windows\Circle.pdb
+D:\MyProjects\VB\Circle\Circle\obj\Debug\net6.0-windows\Circle.genruntimeconfig.cache
+D:\MyProjects\VB\Circle\Circle\obj\Debug\net6.0-windows\ref\Circle.dll

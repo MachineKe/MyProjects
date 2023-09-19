@@ -1,0 +1,16 @@
+D:\MyProjects\VB\BMI\BMI\bin\Debug\net6.0-windows\BMI.exe
+D:\MyProjects\VB\BMI\BMI\bin\Debug\net6.0-windows\BMI.deps.json
+D:\MyProjects\VB\BMI\BMI\bin\Debug\net6.0-windows\BMI.runtimeconfig.json
+D:\MyProjects\VB\BMI\BMI\bin\Debug\net6.0-windows\BMI.dll
+D:\MyProjects\VB\BMI\BMI\bin\Debug\net6.0-windows\BMI.pdb
+D:\MyProjects\VB\BMI\BMI\obj\Debug\net6.0-windows\BMI.Form1.resources
+D:\MyProjects\VB\BMI\BMI\obj\Debug\net6.0-windows\BMI.vbproj.GenerateResource.cache
+D:\MyProjects\VB\BMI\BMI\obj\Debug\net6.0-windows\BMI.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\VB\BMI\BMI\obj\Debug\net6.0-windows\BMI.AssemblyInfoInputs.cache
+D:\MyProjects\VB\BMI\BMI\obj\Debug\net6.0-windows\BMI.AssemblyInfo.vb
+D:\MyProjects\VB\BMI\BMI\obj\Debug\net6.0-windows\BMI.vbproj.CoreCompileInputs.cache
+D:\MyProjects\VB\BMI\BMI\obj\Debug\net6.0-windows\BMI.dll
+D:\MyProjects\VB\BMI\BMI\obj\Debug\net6.0-windows\refint\BMI.dll
+D:\MyProjects\VB\BMI\BMI\obj\Debug\net6.0-windows\BMI.pdb
+D:\MyProjects\VB\BMI\BMI\obj\Debug\net6.0-windows\BMI.genruntimeconfig.cache
+D:\MyProjects\VB\BMI\BMI\obj\Debug\net6.0-windows\ref\BMI.dll

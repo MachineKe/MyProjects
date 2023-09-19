@@ -1,0 +1,16 @@
+D:\MyProjects\VB\sum\sum\bin\Debug\net6.0-windows\sum.exe
+D:\MyProjects\VB\sum\sum\bin\Debug\net6.0-windows\sum.deps.json
+D:\MyProjects\VB\sum\sum\bin\Debug\net6.0-windows\sum.runtimeconfig.json
+D:\MyProjects\VB\sum\sum\bin\Debug\net6.0-windows\sum.dll
+D:\MyProjects\VB\sum\sum\bin\Debug\net6.0-windows\sum.pdb
+D:\MyProjects\VB\sum\sum\obj\Debug\net6.0-windows\sum.Form1.resources
+D:\MyProjects\VB\sum\sum\obj\Debug\net6.0-windows\sum.vbproj.GenerateResource.cache
+D:\MyProjects\VB\sum\sum\obj\Debug\net6.0-windows\sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\VB\sum\sum\obj\Debug\net6.0-windows\sum.AssemblyInfoInputs.cache
+D:\MyProjects\VB\sum\sum\obj\Debug\net6.0-windows\sum.AssemblyInfo.vb
+D:\MyProjects\VB\sum\sum\obj\Debug\net6.0-windows\sum.vbproj.CoreCompileInputs.cache
+D:\MyProjects\VB\sum\sum\obj\Debug\net6.0-windows\sum.dll
+D:\MyProjects\VB\sum\sum\obj\Debug\net6.0-windows\refint\sum.dll
+D:\MyProjects\VB\sum\sum\obj\Debug\net6.0-windows\sum.pdb
+D:\MyProjects\VB\sum\sum\obj\Debug\net6.0-windows\sum.genruntimeconfig.cache
+D:\MyProjects\VB\sum\sum\obj\Debug\net6.0-windows\ref\sum.dll
