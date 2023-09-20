@@ -1,0 +1,15 @@
+D:\MyProjects\VB\readTextFileWhile\readTextFileWhile\bin\Debug\net6.0\readTextFileWhile.exe
+D:\MyProjects\VB\readTextFileWhile\readTextFileWhile\bin\Debug\net6.0\readTextFileWhile.deps.json
+D:\MyProjects\VB\readTextFileWhile\readTextFileWhile\bin\Debug\net6.0\readTextFileWhile.runtimeconfig.json
+D:\MyProjects\VB\readTextFileWhile\readTextFileWhile\bin\Debug\net6.0\readTextFileWhile.dll
+D:\MyProjects\VB\readTextFileWhile\readTextFileWhile\bin\Debug\net6.0\readTextFileWhile.pdb
+D:\MyProjects\VB\readTextFileWhile\readTextFileWhile\obj\Debug\net6.0\readTextFileWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\VB\readTextFileWhile\readTextFileWhile\obj\Debug\net6.0\readTextFileWhile.AssemblyInfoInputs.cache
+D:\MyProjects\VB\readTextFileWhile\readTextFileWhile\obj\Debug\net6.0\readTextFileWhile.AssemblyInfo.vb
+D:\MyProjects\VB\readTextFileWhile\readTextFileWhile\obj\Debug\net6.0\readTextFileWhile.vbproj.CoreCompileInputs.cache
+D:\MyProjects\VB\readTextFileWhile\readTextFileWhile\obj\Debug\net6.0\readTextFileWhile.dll
+D:\MyProjects\VB\readTextFileWhile\readTextFileWhile\obj\Debug\net6.0\refint\readTextFileWhile.dll
+D:\MyProjects\VB\readTextFileWhile\readTextFileWhile\obj\Debug\net6.0\readTextFileWhile.pdb
+D:\MyProjects\VB\readTextFileWhile\readTextFileWhile\obj\Debug\net6.0\readTextFileWhile.genruntimeconfig.cache
+D:\MyProjects\VB\readTextFileWhile\readTextFileWhile\obj\Debug\net6.0\ref\readTextFileWhile.dll
+D:\MyProjects\VB\readTextFileWhile\readTextFileWhile\bin\Debug\net6.0\values.txt

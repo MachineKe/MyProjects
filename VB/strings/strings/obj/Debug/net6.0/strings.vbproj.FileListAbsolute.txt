@@ -1,0 +1,14 @@
+D:\MyProjects\VB\strings\strings\bin\Debug\net6.0\strings.exe
+D:\MyProjects\VB\strings\strings\bin\Debug\net6.0\strings.deps.json
+D:\MyProjects\VB\strings\strings\bin\Debug\net6.0\strings.runtimeconfig.json
+D:\MyProjects\VB\strings\strings\bin\Debug\net6.0\strings.dll
+D:\MyProjects\VB\strings\strings\bin\Debug\net6.0\strings.pdb
+D:\MyProjects\VB\strings\strings\obj\Debug\net6.0\strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\VB\strings\strings\obj\Debug\net6.0\strings.AssemblyInfoInputs.cache
+D:\MyProjects\VB\strings\strings\obj\Debug\net6.0\strings.AssemblyInfo.vb
+D:\MyProjects\VB\strings\strings\obj\Debug\net6.0\strings.vbproj.CoreCompileInputs.cache
+D:\MyProjects\VB\strings\strings\obj\Debug\net6.0\strings.dll
+D:\MyProjects\VB\strings\strings\obj\Debug\net6.0\refint\strings.dll
+D:\MyProjects\VB\strings\strings\obj\Debug\net6.0\strings.pdb
+D:\MyProjects\VB\strings\strings\obj\Debug\net6.0\strings.genruntimeconfig.cache
+D:\MyProjects\VB\strings\strings\obj\Debug\net6.0\ref\strings.dll
