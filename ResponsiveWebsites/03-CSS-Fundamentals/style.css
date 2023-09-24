@@ -1,9 +1,21 @@
-h1, h2, h3, h4, p, li {
+h1,
+h2,
+h3,
+h4,
+p,
+li {
   font-family: sans-serif;
+  color: #444
+}
+
+h1,
+h2,
+h3 {
+  color: #11cb33;
 }
 
 h1 {
-  color: blue;
+  /* color: blue; */
   font-size: 26px;
   text-transform: uppercase;
   font-style: italic;
@@ -32,12 +44,68 @@ li {
   font-size: 20px;
 }
 
-footer p {
+/* footer p {
+  font-size: 16px;
+} */
+
+/*article header p {
+  font-style: italic;
+} */
+
+#author {
+  font-style: italic;
+  font-size: 18px;
+}
+
+#copyright {
   font-size: 16px;
 }
 
-article header p {
-  font-style: italic;
+.related-author {
+  font-size: 18px;
+  font-weight: bold;
 }
 
+/* ul {
+  list-style: none;
+} */
 
+/* .related {
+  list-style: none;
+} */
+
+.main-header {
+  background-color: #f7f7f7;
+}
+
+aside {
+  background-color: #f7f7f7;
+  border-top: 5px solid #11cb33;
+    border-bottom: 5px solid #11cb33;
+      /* border-left: 5px solid #11cb33;
+  border-right: 5px solid #11cb33; */
+}
+
+body {
+  background-color:#f7f7f7;
+  }
+
+  /* .first-li {
+    font-weight: bold;
+  } */
+
+  li:first-child {
+    font-weight: bold;
+  }
+
+  li:last-child {
+    font-style: italic;
+  }
+
+  li:nth-child(odd) {
+    /* color: red; */
+  }
+
+  article p:last-child {
+    color: red;
+  }

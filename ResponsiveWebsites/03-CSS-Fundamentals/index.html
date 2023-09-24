@@ -14,7 +14,7 @@
     <h5>The basic Language of the web: HTML</h5>
     <h6>The basic Language of the web: HTML</h6>
     -->
-    <header>
+    <header class="main-header">
       <h1>📘 The Code Magazine</h1>
 
       <nav>
@@ -31,7 +31,7 @@
 
         <img src="img/Mark.png" height="50" width="50" />
 
-        <p>
+        <p id="author">
           Posted by <strong>Mark Kiprotich</strong> on Monday, June 21st 2027
         </p>
 
@@ -93,7 +93,7 @@
       </p>
 
       <ul>
-        <li>To be able to use the fundamental web dev language</li>
+        <li class="first-li">To be able to use the fundamental web dev language</li>
         <li>
           To hand-craft beautiful websites instead of relying on tools like
           Worpress or Wix
@@ -102,13 +102,14 @@
         <li>To impress friends</li>
         <li>To have fun 😃</li>
       </ul>
+      <p>Hopefully you learned something new here. See you next time</p>
     </article>
 
     <aside>
       <h4>Related posts</h4>
 
-      <ul>
-        <li>
+      <ul class="related">
+        <li class="first-li">
           <img
             src="img/related-1.jpg"
             width="75"
@@ -116,7 +117,7 @@
             alt="Person typing on a computer"
           />
           <a href="#">How to Learn Web Development</a>
-          <p>By Mark Kiprotich</p>
+          <p class="related-author">By Mark Kiprotich</p>
         </li>
         <li>
           <img
@@ -126,7 +127,7 @@
             alt="Flash of lightning"
           />
           <a href="#">The Unknown Power of CSS</a>
-          <p>By Jim Dillon</p>
+          <p class="related-author">By Jim Dillon</p>
         </li>
         <li>
           <img
@@ -136,11 +137,11 @@
             alt="Terminal screen"
           />
           <a href="#">Why Javascript is Awesome</a>
-          <p>By Martha</p>
+          <p class="related-author">By Martha</p>
         </li>
       </ul>
     </aside>
 
-    <footer><p>Copyright &copy; 2027 by The Code Magazine</p></footer>
+    <footer><p id="copyright">Copyright &copy; 2027 by The Code Magazine</p></footer>
   </body>
 </html>
