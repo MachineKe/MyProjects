@@ -1,0 +1,14 @@
+D:\MyProjects\VB\Understanding.netClasses&Methods\Understanding.netClasses&Methods\bin\Debug\net6.0\Understanding.netClasses&Methods.exe
+D:\MyProjects\VB\Understanding.netClasses&Methods\Understanding.netClasses&Methods\bin\Debug\net6.0\Understanding.netClasses&Methods.deps.json
+D:\MyProjects\VB\Understanding.netClasses&Methods\Understanding.netClasses&Methods\bin\Debug\net6.0\Understanding.netClasses&Methods.runtimeconfig.json
+D:\MyProjects\VB\Understanding.netClasses&Methods\Understanding.netClasses&Methods\bin\Debug\net6.0\Understanding.netClasses&Methods.dll
+D:\MyProjects\VB\Understanding.netClasses&Methods\Understanding.netClasses&Methods\bin\Debug\net6.0\Understanding.netClasses&Methods.pdb
+D:\MyProjects\VB\Understanding.netClasses&Methods\Understanding.netClasses&Methods\obj\Debug\net6.0\Understanding.netClasses&Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\VB\Understanding.netClasses&Methods\Understanding.netClasses&Methods\obj\Debug\net6.0\Understanding.netClasses&Methods.AssemblyInfoInputs.cache
+D:\MyProjects\VB\Understanding.netClasses&Methods\Understanding.netClasses&Methods\obj\Debug\net6.0\Understanding.netClasses&Methods.AssemblyInfo.vb
+D:\MyProjects\VB\Understanding.netClasses&Methods\Understanding.netClasses&Methods\obj\Debug\net6.0\Understanding.netClasses&Methods.vbproj.CoreCompileInputs.cache
+D:\MyProjects\VB\Understanding.netClasses&Methods\Understanding.netClasses&Methods\obj\Debug\net6.0\Understanding.netClasses&Methods.dll
+D:\MyProjects\VB\Understanding.netClasses&Methods\Understanding.netClasses&Methods\obj\Debug\net6.0\refint\Understanding.netClasses&Methods.dll
+D:\MyProjects\VB\Understanding.netClasses&Methods\Understanding.netClasses&Methods\obj\Debug\net6.0\Understanding.netClasses&Methods.pdb
+D:\MyProjects\VB\Understanding.netClasses&Methods\Understanding.netClasses&Methods\obj\Debug\net6.0\Understanding.netClasses&Methods.genruntimeconfig.cache
+D:\MyProjects\VB\Understanding.netClasses&Methods\Understanding.netClasses&Methods\obj\Debug\net6.0\ref\Understanding.netClasses&Methods.dll

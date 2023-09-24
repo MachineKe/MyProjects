@@ -1,0 +1,14 @@
+D:\MyProjects\VB\Dates&time\Dates&time\bin\Debug\net6.0\Dates&time.exe
+D:\MyProjects\VB\Dates&time\Dates&time\bin\Debug\net6.0\Dates&time.deps.json
+D:\MyProjects\VB\Dates&time\Dates&time\bin\Debug\net6.0\Dates&time.runtimeconfig.json
+D:\MyProjects\VB\Dates&time\Dates&time\bin\Debug\net6.0\Dates&time.dll
+D:\MyProjects\VB\Dates&time\Dates&time\bin\Debug\net6.0\Dates&time.pdb
+D:\MyProjects\VB\Dates&time\Dates&time\obj\Debug\net6.0\Dates&time.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\VB\Dates&time\Dates&time\obj\Debug\net6.0\Dates&time.AssemblyInfoInputs.cache
+D:\MyProjects\VB\Dates&time\Dates&time\obj\Debug\net6.0\Dates&time.AssemblyInfo.vb
+D:\MyProjects\VB\Dates&time\Dates&time\obj\Debug\net6.0\Dates&time.vbproj.CoreCompileInputs.cache
+D:\MyProjects\VB\Dates&time\Dates&time\obj\Debug\net6.0\Dates&time.dll
+D:\MyProjects\VB\Dates&time\Dates&time\obj\Debug\net6.0\refint\Dates&time.dll
+D:\MyProjects\VB\Dates&time\Dates&time\obj\Debug\net6.0\Dates&time.pdb
+D:\MyProjects\VB\Dates&time\Dates&time\obj\Debug\net6.0\Dates&time.genruntimeconfig.cache
+D:\MyProjects\VB\Dates&time\Dates&time\obj\Debug\net6.0\ref\Dates&time.dll
